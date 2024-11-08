@@ -26,6 +26,8 @@ Git es el lenguaje en el que se controlan los elementos ya mencionados. Cuando t
 
 - `git push` : lleva los cambios al servidor
 
+- `git checkout otra/rama` : cambia de la rama actual a otra (llamada otra/rama) que ya se haya creado localmente y en el origen (el servidor) y que esté también configurada para seguir a la rama del origen
+
 - `git checkout -b nueva/rama` : crea una nueva rama (llamada nueva/rama) localmente y se cambia para estar sobre esa rama
 
 - `git fetch` : busca cambios en las ramas del repositorio
