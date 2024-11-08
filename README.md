@@ -28,6 +28,10 @@ Git es el lenguaje en el que se controlan los elementos ya mencionados. Cuando t
 
 - `git checkout -b nueva/rama` : crea una nueva rama (llamada nueva/rama) localmente y se cambia para estar sobre esa rama
 
+- `git fetch` : busca cambios en las ramas del repositorio
+
+- `git branch --set-upstream-to=origin/nueva/rama nueva/rama` : configura la nueva rama para seguir en el origen (el servidor) una rama del mismo nombre
+
 
 ## Autenticación [avanzado]
 
