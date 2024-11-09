@@ -1,6 +1,6 @@
 # Repositorio de github
 
-Git es un software de control de versiones y es la manera principal en la que se desarrolla y comparte código. Lo inventó Linus Torvalds, el creador de Linux, para diseñar sus sistemas operativos.
+Git es un software de control de versiones y es la manera principal en la que se desarrolla y comparte código. Lo inventó Linus Torvalds, el creador del kernel de Linux, para diseñar sus sistemas operativos.
 
 ## El README.md
 
